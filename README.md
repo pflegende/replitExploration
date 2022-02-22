@@ -34,7 +34,7 @@ https://github.com/pflegende/agatab/wiki
 
 
 ---
-`*` ... [A. Seifert, Zü., 2021]
+`*` ... [A. Seifert, Zü., 2021] -> [Help needed from world! Please klick!](https://github.com/pflegende/agatab/issues/1)
 
 `**` ... [AGATHE intern calulations, TMASGFF whisle - anonymous, 2021] -> more https://edupad.ch/p/agathe
 
