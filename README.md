@@ -4,7 +4,7 @@ hitchhiker travels now with really THINK tanking books ... let's go.
 What call you "old"? - a Dino. But we are growing older.
 
 ## Why? 
-50%O50 doesnt have a web conecction.*
+50%O50 doesnt have a web conection.*
 
 ≈6..8% of all "earthlings" are lonely people O60!** 
 
