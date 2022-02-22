@@ -34,8 +34,8 @@ https://github.com/pflegende/agatab/wiki
 
 
 ---
-* ... [A. Seifert, Zü., 2021]
+`*` ... [A. Seifert, Zü., 2021]
 
-** ... [AGATHE intern calulations, TMASGFF whisle - anonymous, 2021] -> more https://edupad.ch/p/agathe
+`**` ... [AGATHE intern calulations, TMASGFF whisle - anonymous, 2021] -> more https://edupad.ch/p/agathe
 
-(May be you has better and harder Numbers - give it! - We love stars.)
+(May be you has better and harder Numbers - give it! - We love stars. R`*`e`*`a`*`l`*`l`*`y!)
