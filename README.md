@@ -51,14 +51,14 @@ https://github.com/pflegende/agatab/wiki
 ---
 
 ![gh independent: we CARE with zero budget](https://img.shields.io/static/v1?label=weCARE&message=with_zero_budget&color=lightgrey)<br>
-![GitHub last commit](https://img.shields.io/github/last-commit/pflegende/pflegende?color=grey)
-![GitHub all releases](https://img.shields.io/github/downloads/pflegende/pflegende/total)
-![GitHub language count](https://img.shields.io/github/languages/count/pflegende/pflegende)
-![GitHub top language](https://img.shields.io/github/languages/top/pflegende/pflegende?color=yellow)
-![Github issues](https://img.shields.io/github/issues/pflegende/pflegende)
-![GitHub discussions](https://img.shields.io/github/discussions/pflegende/pflegende?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/pflegende/pflegende?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/pflegende/pflegende?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/pflegende/agatab?color=grey)
+![GitHub all releases](https://img.shields.io/github/downloads/pflegende/agatab/total)
+![GitHub language count](https://img.shields.io/github/languages/count/pflegende/agatab)
+![GitHub top language](https://img.shields.io/github/languages/top/pflegende/agatab?color=yellow)
+![Github issues](https://img.shields.io/github/issues/pflegende/agatab)
+![GitHub discussions](https://img.shields.io/github/discussions/pflegende/agatab?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/pflegende/agatab?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/pflegende/agatab?style=social)
 
 
 ![Follow us on Twitter?](https://img.shields.io/twitter/follow/pflegedissens?label=Follow&amp;style=social)
