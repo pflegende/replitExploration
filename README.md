@@ -1,55 +1,59 @@
 for **TOC** click on hamburger on top left hand side
 
-# AgAtAb
-hitchhiker travels now with really THINK tanking books ... let's go.
+# replitExploration
+some years ago we searched for 2nd open-ssh (like sdf, xshellz etc.) ... so was a tiny IDE somewhere. Short to say  - other than others: it is alive today, some years later. And it was growing up.
 
-What call you "old"? - a Dino. But we are growing older.
-
-```
-
-
+newest one:
+`(`It appears a message on screen in the moment we want sync our [AgAtAb](https://github.com/pflegende/agatab) `)`
 
 ```
+Introducing CodeMirror!
+You might notice that the editor looks different and feels faster! That's because we've switched from Monaco to CodeMirror 6.
+What's different:
+Improved Syntax Highlighting and Font
+Threads and "Explain Code" have moved to the Context Menu
+Improved Context Menu
+Right Click
+Improved Search Panel
+Ctrl + F
+Add a new cursor
+Alt + Click
+Jump to definition
+Ctrl + Click
+We hope you enjoy a faster and more native coding experience!
 
-& this `AAA` suggestion:
-## Why? 
-50%O50 doesnt have a web conection.*
+```
+![gh independent: we CARE with zero budget](https://img.shields.io/static/v1?label=weCARE&message=with_zero_budget&color=lightgrey)<br>
+![GitHub last commit](https://img.shields.io/github/last-commit/pflegende/replitExploration?color=grey)
+![GitHub all releases](https://img.shields.io/github/downloads/pflegende/replitExploration/total)
+![GitHub language count](https://img.shields.io/github/languages/count/pflegende/replitExploration)
+![GitHub top language](https://img.shields.io/github/languages/top/pflegende/replitExploration?color=yellow)
+![Github issues](https://img.shields.io/github/issues/pflegende/replitExploration)
+![GitHub discussions](https://img.shields.io/github/discussions/pflegende/replitExploration?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/pflegende/replitExploration?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/pflegende/replitExploration?style=social)
 
-≈6..8% of all "earthlings" are lonely people O60!** 
 
-(75% in DE of all nursing) ≈4,3 Mio of all ≈83 Mio DE-inhabitants are **home nursing people**
+![Follow us on Twitter?](https://img.shields.io/twitter/follow/pflegedissens?label=Follow&amp;style=social)
 
-(≈120 Mio. nursing et al - global). Gives according to Cocker: round about conservativly calculated 
+![_not visible_](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&label=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)  
+* [go to the site itself](https://demenzpflaster.joomla.com)  
+* 🧑‍🦽👨‍🦳👩‍🦳 ➡️ [to meet us](https://linktr.ee/pflegende) ⬅️: 🧑‍🦽👨‍🦳👩‍🦳 
 
-## elderly need a solution
 ---
-65 Mio on globe are waiting for
-# THIS THING:
+Is everything in operation?
+
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790129794-6d88280073c87ef883c7bd36?label=DP_WP)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790130194-21af5e9a1aa0d99994111d1e?label=scotch)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790130241-dc96a8abd23bf4f3b4ea8d51?label=ether)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790130295-6aafb2b5815657c62fb1af37?label=bmk)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790130965-192d351d97c75b777fe68ebd?label=alparis)
+![_not visible_](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&label=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)  
+
 ---
-
-## What?
-
-coming soon
-now for some dramaturgic reasons:
-- a secret -
-(a mystery also?)
-
-Put your supposition as an issue. Lets see who hit nearest to solution in some weeks.
-
-https://www.protectedtext.com/agatab p defa
-
-don't forget the wiki
-https://github.com/pflegende/agatab/wiki
-
-
-## papers
 ---
-`*` ... [A. Seifert, Zü., 2021] -> [Help needed from world! Please klick!](https://github.com/pflegende/agatab/issues/1)
-
-`**` ... [AGATHE intern calulations, TMASGFF whisle - anonymous, 2021] -> more https://edupad.ch/p/agathe
-
-(May be you has better and harder Numbers - give it! - We love stars. R`*`e`*`a`*`l`*`l`*`y!)
-
+---
+---
 ## epilogue
 
 ---
